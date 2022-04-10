@@ -1,4 +1,4 @@
-baseURL = 'http://cv.alexmav.co.uk/'
-languageCode = 'en-us'
-title = 'AlexMav Site'
-theme = "ananke"
+theme = "hugo-uilite"
+baseURL = "http://cv.alexmav.com"
+languageCode = "en-INT"
+title = "Alexander Mavrogiannis"
